@@ -1,0 +1,8 @@
+com\mycompany\librarysystem\Book.class
+com\mycompany\librarysystem\LibrarySystem.class
+com\mycompany\librarysystem\ManagementUser.class
+com\mycompany\librarysystem\DatabaseConnection.class
+com\mycompany\librarysystem\User.class
+com\mycompany\librarysystem\LibraryEntity.class
+com\mycompany\librarysystem\Main.class
+com\mycompany\librarysystem\LibraryOperations.class
