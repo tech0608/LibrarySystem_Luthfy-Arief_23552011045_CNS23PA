@@ -1,4 +1,4 @@
-# Tugas Pemrograman Berorientasi Obyek 2
+# Tugas Pemrograman Berorientasi Objek 2
 <ul>
   <li>Mata Kuliah: Pemrograman Berorientasi Obyek 1</li>
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
